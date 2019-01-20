@@ -1,3 +1,4 @@
 Working through the example
 
+docker run -d -p 4000:80 friendlyhello
 after running: localhost:4000
